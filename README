@@ -2,8 +2,8 @@
 *By: Pedro Perez Mochetti*
 ## Funcionamiento:
 Es muy simple, abris el ejecutable **script.bat** el cual te va a abrir la terminal y te va a pedir que introduzcas un link, despues va a aempezar a desacar el video y cuando finalice va a mostrar el siguiente mensaje: 
-                     
-                     "-------------------------------------------------------------"
+
+                    "-------------------------------------------------------------"
 
                      "----- VIDEO DESCARGADO EN LA CARPETA videos_descargados -----"
                      
@@ -12,9 +12,6 @@ Es muy simple, abris el ejecutable **script.bat** el cual te va a abrir la termi
 Una vez finalizado simplemente aprietan enter y van a tener su video descargado en la carpeta *videos_descargados*
 
 Pd: funciona solo en Windows 
-
 ## Importaciones:
-
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
-
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)
