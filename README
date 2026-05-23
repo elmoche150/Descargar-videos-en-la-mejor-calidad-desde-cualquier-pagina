@@ -1,17 +1,24 @@
 # Script para descargar videos en su maxima calidad mediante un link
-*By: Pedro Perez Mochetti*
+
+_By: Pedro Perez Mochetti_
+
 ## Funcionamiento:
-Es muy simple, abris el ejecutable **script.bat** el cual te va a abrir la terminal y te va a pedir que introduzcas un link, despues va a aempezar a desacar el video y cuando finalice va a mostrar el siguiente mensaje: 
 
-                    "-------------------------------------------------------------"
+Es muy simple, abrís el ejecutable **script.bat** el cual te va a abrir la terminal y te va a pedir que introduzcas un link, después va a empezar a descargar el video y cuando finalice va a mostrar el siguiente mensaje:
 
-                     "----- VIDEO DESCARGADO EN LA CARPETA videos_descargados -----"
-                     
-                     "-------------------------------------------------------------"
+```txt
+-------------------------------------------------------------
 
-Una vez finalizado simplemente aprietan enter y van a tener su video descargado en la carpeta *videos_descargados*
+----- VIDEO DESCARGADO EN LA CARPETA videos_descargados -----
 
-Pd: funciona solo en Windows 
+-------------------------------------------------------------
+```
+
+Una vez finalizado simplemente aprietan enter y van a tener su video descargado en la carpeta **videos_descargados**
+
+> Pd: funciona solo en Windows
+
 ## Importaciones:
+
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)
