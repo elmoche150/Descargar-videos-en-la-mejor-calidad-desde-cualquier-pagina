@@ -16,7 +16,7 @@ Es muy simple, abrís el ejecutable **script.bat** el cual te va a abrir la term
 
 Una vez finalizado simplemente aprietan enter y van a tener su video descargado en la carpeta **videos_descargados**
 
-Pd: funciona solo en Windows
+> Pd: funciona solo en Windows
 
 ## Importaciones:
 
